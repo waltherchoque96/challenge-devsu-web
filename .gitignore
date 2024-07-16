@@ -1,0 +1,9 @@
+node_modules
+screenshots
+videos
+downloads
+reports
+/test-results/
+/my-report
+my-report/
+reports/
